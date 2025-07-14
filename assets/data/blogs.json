@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Vue.js",
+    "description": "Learn the fundamentals of Vue.js and build your first reactive application. This comprehensive guide covers components, directives, and the Vue ecosystem.",
+    "image": "/placeholder.svg?height=200&width=400",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Nuxt.js 3 Features Overview",
+    "description": "Explore the powerful features of Nuxt.js 3 including auto-imports, server-side rendering, and the new Nitro engine for better performance.",
+    "image": "/placeholder.svg?height=200&width=400",
+    "date": "2024-01-20"
+  },
+  {
+    "id": 3,
+    "title": "Building Responsive Web Applications",
+    "description": "Master the art of creating responsive web applications that work seamlessly across all devices using modern CSS techniques and frameworks.",
+    "image": "/placeholder.svg?height=200&width=400",
+    "date": "2024-01-25"
+  }
+]
